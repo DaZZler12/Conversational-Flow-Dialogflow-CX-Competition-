@@ -5,4 +5,4 @@ i. Learning Mode
 ii. Practice Mode   
       and   
 iii. Competitive Mode. 
-Now user can select any one of the above modes and move with the flow of that mode. :) 
+Now a user can select any one of the above modes and move with the flow of that mode. :) 
