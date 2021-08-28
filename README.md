@@ -6,3 +6,9 @@ ii. Practice Mode
       and   
 iii. Competitive Mode. 
 Now a user can select any one of the above modes and move with the flow of that mode. :) 
+
+
+
+#License
+Copyright © 2021 Abhirup Bhattacharya
+Licensed under the Apache License, Version 2.0.
