@@ -9,7 +9,7 @@ iii. Competitive Mode.
 Now a user can select any one of the above modes and move with the flow of that mode. :) 
 
 # Please visit the link below to know more about this competition.
-~https://events.withgoogle.com/dialogflow-cx-competition-global/?utm_source=medium_post&utm_medium=site&utm_campaign=cx_competition#:~:text=Abhirup%20Bhattacharya~
+*https://events.withgoogle.com/dialogflow-cx-competition-global/?utm_source=medium_post&utm_medium=site&utm_campaign=cx_competition#:~:text=Abhirup%20Bhattacharya*
 
 ---
 
